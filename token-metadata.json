@@ -1,13 +1,15 @@
 {
-    "name": "My YYDS Token",
+    "name": "MyYYDS",
     "symbol": "YYDS",
     "description": "This is a sample token on Solana devnet.",
     "image": "https://example.com/token-icon.png",
     "external_url": "https://example.com",
-    "social_links": {
-        "twitter": "https://twitter.com/MyToken",
-        "telegram": "https://t.me/MyToken",
-        "discord": "https://discord.gg/MyToken"
-    },
-    "tags": ["utility", "solana", "crypto"]
+	"properties": {
+				"social_links": {
+					"twitter": "https://twitter.com/MyToken",
+					"telegram": "https://t.me/MyToken",
+					"discord": "https://discord.gg/MyToken",
+				},
+				"tags": ["utility", "solana", "crypto"],
+			},
 }

@@ -1,6 +1,6 @@
 {
-    "name": "MyToken",
-    "symbol": "MTK",
+    "name": "My YYDS Token",
+    "symbol": "YYDS",
     "description": "This is a sample token on Solana devnet.",
     "image": "https://example.com/token-icon.png",
     "external_url": "https://example.com",
